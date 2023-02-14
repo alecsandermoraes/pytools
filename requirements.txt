@@ -1,0 +1,7 @@
+pdfminer==20191125
+reportlab==3.6.12
+python-docx==0.8.11
+python-pptx==0.6.21
+Pillow==9.4.0
+pypandoc==1.10
+pandas==1.5.3
